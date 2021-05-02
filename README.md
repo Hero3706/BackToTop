@@ -16,7 +16,7 @@
 
 ## 演示
 
-[ttps://hero3706.github.io/BackToTop/](https://hero3706.github.io/BackToTop/)
+[https://hero3706.github.io/BackToTop/](https://hero3706.github.io/BackToTop/)
 
 ## 下载
 
