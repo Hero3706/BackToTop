@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    </meta>
+    <title>回到顶部</title>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body>
+    <span id="toTop" class="toTop"></span>
+    <script type="text/javascript" src="js/BackToTop.js"></script>
+    <script>
+        var topElement = document.getElementById("toTop");
+        var toTop = new BackToTop(topElement, {
+            showWhen: 200,
+            speed: 200,
+            fadeSpeed: 10
+        })
+    </script>
+</body>
+
+</html>
