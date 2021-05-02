@@ -17,7 +17,7 @@
 ## 下载
 
 ```js
-git clone git@github.com/Hero3706/BackToTop.git
+git clone https://github.com/Hero3706/BackToTop.git
 ```
 
 ## 使用
