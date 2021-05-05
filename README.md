@@ -27,13 +27,13 @@ git clone https://github.com/Hero3706/BackToTop.git
 ## 使用
 
 ```html
-<script src="path/BackToTop.js"></script>
+<script src="path/backtotop.js"></script>
 ```
 
 或者
 
 ```js
-import BackToTop from 'path/BackToTop.js'
+import BackToTop from 'path/backtotop.js'
 ```
 
 ## 示例
