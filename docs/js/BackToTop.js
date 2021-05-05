@@ -4,7 +4,7 @@
         this || {};
 
     // requestAnimationFrame 兼容到 IE6
-    var lastTime = 0;
+    var lastTime = 0;   
     var vendors = ['webkit', 'moz'];
     for (var x = 0; x < vendors.length && !window.requestAnimationFrame; ++x) {
         window.requestAnimationFrame = window[vendors[x] + 'RequestAnimationFrame'];
